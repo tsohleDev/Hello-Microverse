@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> A first repository in Microverse with linters.
+> A first repository in Microverse with linters set up.
 
 
 ## Built With
